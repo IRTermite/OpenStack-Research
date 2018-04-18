@@ -5,7 +5,9 @@
 
 <blockquote>
 <p>NOTE: THIS DOCUMENT IS UNDER CONSTRUCTION AND NOT COMPLETED OR VETTED.</p>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
+Written by <a href="http://dale.bracey.come">Dale Bracey</a><br>
+Expert Advice from Matt Heler and David Alfano</p>
 </blockquote>
 <h1 id="ceph-is-hard">CEPH is hard</h1>
 <p>And understanding how it replicates data is hard.</p>
